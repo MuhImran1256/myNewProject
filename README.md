@@ -1,7 +1,8 @@
 "Hello" 
 
 
-<i> Italic Hello
-<br> Breakline Hello
-<b> Blod Hello
-<u> Underline Hello
+<i> Italic Hello</i>
+<br> Breakline Hello</br>
+<b> Blod Hello<br> </b>
+<u> Underline Hello </u>
+
